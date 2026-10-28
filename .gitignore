@@ -1,0 +1,24 @@
+# Prevent accidental submission of proprietary or internal assets
+*.bin
+*.md
+*.smd
+*.gen
+*.rom
+*.zip
+*.7z
+*.rar
+*.state*
+*.gp0
+*.gs0
+*.srm
+*.sav
+*.iso
+*.cue
+*.wav
+*.mp3
+*.flac
+*.chd
+/internal/
+/archive/
+/evidence/
+/checkpoints/
