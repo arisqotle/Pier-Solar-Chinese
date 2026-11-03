@@ -18,7 +18,25 @@
 
 ## 游戏截图
 
-实际运行截图见仓库的截图资料。正式公开前将补充精选展示图，避免以 AI 生成画面代替真实游戏效果。
+以下为实际游戏运行截图，点击可查看原图。
+
+<table>
+  <tr>
+    <td align="center" width="33%"><a href="screenshots/01.jpg"><img src="screenshots/01.jpg" alt="标题画面" width="320"></a><br>标题画面</td>
+    <td align="center" width="33%"><a href="screenshots/07.jpg"><img src="screenshots/07.jpg" alt="剧情对白" width="320"></a><br>剧情对白</td>
+    <td align="center" width="33%"><a href="screenshots/05.jpg"><img src="screenshots/05.jpg" alt="道具与说明" width="320"></a><br>道具与说明</td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><a href="screenshots/06.jpg"><img src="screenshots/06.jpg" alt="非战斗魔法" width="320"></a><br>非战斗魔法</td>
+    <td align="center" width="33%"><a href="screenshots/08.jpg"><img src="screenshots/08.jpg" alt="战斗攻击选单" width="320"></a><br>战斗攻击选单</td>
+    <td align="center" width="33%"><a href="screenshots/09.jpg"><img src="screenshots/09.jpg" alt="战斗魔法选单" width="320"></a><br>战斗魔法选单</td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><a href="screenshots/02.jpg"><img src="screenshots/02.jpg" alt="Oxyde 主题设置" width="320"></a><br>Oxyde 主题设置</td>
+    <td align="center" width="33%"><a href="screenshots/03.jpg"><img src="screenshots/03.jpg" alt="Shell 主题设置" width="320"></a><br>Shell 主题设置</td>
+    <td align="center" width="33%"><a href="screenshots/04.jpg"><img src="screenshots/04.jpg" alt="人物状态" width="320"></a><br>人物状态</td>
+  </tr>
+</table>
 
 ## 下载与使用
 
@@ -61,3 +79,4 @@
 本项目是爱好者制作的**非官方免费汉化补丁**，与 WaterMelon 或原作发行方无关联。原游戏及相关图像、音乐、商标、版权归相应权利人所有。请自行准备合法取得的原版游戏文件。
 
 **请勿将本补丁或由其生成的游戏 ROM 用于商业用途。** 免费发布并不代表获得原作再分发授权。
+
