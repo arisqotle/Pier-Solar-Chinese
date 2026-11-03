@@ -1,4 +1,4 @@
-# 《太阳码头》简体中文汉化 · v1.0
+# 《太阳码头》简体中文汉化
 
 **Pier Solar and the Great Architects · Mega Drive / Genesis**
 
